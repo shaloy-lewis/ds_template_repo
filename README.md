@@ -1,1 +1,1 @@
-# ineuron_mlops_foundations
+Template repository for your DS projects
